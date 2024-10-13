@@ -94,7 +94,7 @@ body {
 }
 
 .header {
-  background-image: url("assets/header.png");
+  background-image: url("./assets/header.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -323,7 +323,7 @@ nav {
 }
 
 .service {
-  background-image: url("assets/service.png");
+  background-image: url("./assets/service.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -425,7 +425,7 @@ nav {
     minmax(1rem, 1fr)
     minmax(0, var(--max-width))
     minmax(1rem, 1fr);
-  background-image: url("assets/explore.png");
+  background-image: url("./assets/explore.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
